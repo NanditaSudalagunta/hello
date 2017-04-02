@@ -1,0 +1,133 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+.row-footer {
+  margin: 0px auto;
+  padding: 20px 0px;
+  background-color: #AfAfAf;
+}
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #7986CB;
+  color: floralwhite;
+}
+.carousel {
+  background: #1a237e;
+}
+.carousel .item {
+  height: 300px;
+}
+.carousel .item img {
+  left: 0;
+  min-height: 300px;
+  position: absolute;
+  top: 0;
+}
+.navbar-inverse {
+  background: #303f9f;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a:hover {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a:hover {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a:focus {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+  background-color: #303f9f;
+  color: #eeeeee;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+  color: #000000;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+  background-color: #303f9f;
+  color: #eeeeee;
+}
+address {
+  color: #0f0f0f;
+  font-size: 80%;
+  margin: 0px;
+}
+body {
+  align: center;
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+.tab-content {
+  border-bottom: 1px solid #dddddd;
+  border-left: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
+  padding: 10px;
+}
+.affix {
+  top: 100px;
+}
+#carouselButtons {
+  bottom: 0px;
+  position: absolute;
+  right: 0px;
+}
+
+.pageBanner {
+    background-color: #6E6D6D;
+    background-repeat: repeat-x;
+    height: 45px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.rsys-filter-designer-caption {
+/*     background-image: url("../../../apps-resources-4.2.x/images/common/title_backgroundGlow.png");
+ */    background-repeat: no-repeat;
+    color: #d1cfca;
+    cursor: default;
+    float: left;
+    font-family: Verdana;
+    font-size: 16px;
+    line-height: 44px;
+    padding-left: 38px;
+}
+
+.right {
+    float: right;
+}
+
+div.pageBanner img.rsysLogo {
+    height: 17px;
+    position: absolute;
+    right: 21px;
+    top: 44px;
+    width: 86px;
+}
+img {
+    border: 0 none;
+}
